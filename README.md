@@ -4,8 +4,6 @@ I’m a Computer Engineering student at the University of California, Irvine bui
 
 I enjoy working across the stack, from low-level firmware and PCB design to high-level systems architecture. My work spans aerospace, robotics, and simulation, with a particular interest in creating technologies that meaningfully interact with and improve the world around us.
 
-<br>
-
 ## interests
 - Space Systems 
 - Robotics 
