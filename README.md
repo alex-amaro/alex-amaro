@@ -13,7 +13,9 @@ I enjoy working across the stack, from low-level firmware and PCB design to high
 - Systems Architecture & Integration
 - Physics
 
-If it's a system of any kind, chances are I'm interested in how it works :o
+If it's a system of any kind, chances are I'm interested in how it works.
+
+And *everything* is a system ;]
 
 <br>
 
@@ -26,7 +28,7 @@ If it's a system of any kind, chances are I'm interested in how it works :o
 
 I love C.
 
-"[C has] the power of assembly language and the convenience of... assembly language." -Dennis Ritchie
+"C has the power of assembly language and the convenience of... assembly language" -Dennis Ritchie, purportedly :P
 
 <br>
 
