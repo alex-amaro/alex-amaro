@@ -17,8 +17,6 @@ If it's a system of any kind, chances are I'm interested in how it works.
 
 And *everything* is a system ;]
 
-<br>
-
 ## some tech I enjoy working with
 - Languages: C/C++, C#, Python
 - Embedded: Microcontrollers (STM32)
@@ -30,16 +28,12 @@ I love C.
 
 "C has the power of assembly language and the convenience of... assembly language" -Dennis Ritchie, purportedly :P
 
-<br>
-
 ## what I’ve been up to lately
 - Ground testing and data acquisition systems for a methalox rocket engine at the [UCI Rocket Project Liquids](https://www.rocket.eng.uci.edu/liquids/)
 - Systems architecture and integration for an autonomous combat robot at [UCI ACE Robotics](https://sites.google.com/uci.edu/anteatercombatengineering)
 - CFD visualizations and data-processing tools for cardiovascular research at [Cardio Flow Design](https://cfd.life/en/) 
 
 Get more deets on my website, [amarolabs.tech](https://amarolabs.tech/)!
-
-<br>
 
 ## reach out!
 Feel free to reach out, I'm always open to interesting convo :]
