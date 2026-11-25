@@ -26,7 +26,7 @@ And *everything* is a system ;]
 
 I love C.
 
-> "C has the power of assembly language and the convenience of... assembly language" -Dennis Ritchie (purportedly :P)
+> "C has the power of assembly language and the convenience of... assembly language" -Dennis Ritchie (according to legend :P)
 
 ## what I’ve been up to lately
 - Ground testing and data acquisition systems for a methalox rocket engine at the [UCI Rocket Project Liquids](https://www.rocket.eng.uci.edu/liquids/)
